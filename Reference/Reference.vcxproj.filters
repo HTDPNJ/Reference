@@ -26,5 +26,8 @@
     <ClCompile Include="Reference.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="dm12_指针的引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
